@@ -1,3 +1,6 @@
+
+![Quake 2](https://raw.githubusercontent.com/InAnimaTe/docker-quake2/master/Quake2_logo.png)
+
 # Quake II via Docker
 This repository can be used for quickly standing up Quake II servers using Docker. The repository includes only free resources, the data from the Quake II demo, along with the latest nightly build from q2pro for the server software. In order to play maps and content from the full Quake II single player mission copy the pak0.pak file from your client install media into the baseq2 directory.
 
