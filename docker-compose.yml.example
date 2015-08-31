@@ -1,0 +1,8 @@
+quake2:
+    image: inanimate/quake2
+    restart: always
+    ports:
+        - "27910:27910/udp"
+    volumes:
+        - /home/example/pak0.pak:/usr/share/games/quake2/baseq2/pak0.pak
+        - ./server.cfg:/usr/share/games/quake2/baseq2/server.cfg
