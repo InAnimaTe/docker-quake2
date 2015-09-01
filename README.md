@@ -31,7 +31,7 @@ docker run -d -v ./pak0.pak:/usr/share/games/quake2/baseq2/pak0.pak inanimate/qu
 
 #### Maps
 
-I've set a default launch map of q2dm1, which is *The Edge*, one of the more popular deathmatch maps. This means you can just run the container straight off with no options and be playing instantly.
+I've set a default launch map of q2dm1, which is *The Edge*, one of the more popular deathmatch maps. **This means you can just run the container straight off with no options and be playing instantly.**
 
 A great map breakdown can be seen [here](http://quake.wikia.com/wiki/Quake_II#Multiplayer_Maps).
 

@@ -31,4 +31,4 @@ EXPOSE 27910/udp
 
 ENTRYPOINT ["/usr/games/quake2-server"]
 
-CMD ["+exec", "server.cfg", "+map", "q2dm1"]
+CMD ["+map", "q2dm1", "+exec", "server.cfg"]
